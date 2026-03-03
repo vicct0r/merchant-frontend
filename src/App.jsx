@@ -43,7 +43,7 @@ const GlobalStyles = () => (
 );
 
 // ─── API ──────────────────────────────────────────────────────────────────────
-const BASE_URL = "https://merchant.tornac.cloud/";
+const BASE_URL = "https://merchant.tornac.cloud";
 
 const api = {
   token: null,
